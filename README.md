@@ -5,6 +5,7 @@ The bar graph below displys the number of emails that ara included in every fold
 Data set:
 ![emails](emails_30.png)
 
-
+<p align="center">
 Results:
 ![results](NLP_accuracy.png)
+</p>

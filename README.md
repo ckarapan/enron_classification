@@ -8,5 +8,5 @@ Data set:
 
 Results:
 <p align="center">  
-![results](NLP_accuracy.png)
+NLP_accuracy.png
 </p>
